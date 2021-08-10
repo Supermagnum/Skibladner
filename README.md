@@ -1,7 +1,7 @@
 # Skibladner
 Hydrophone recording of PS Skibladner
 
-It was recorded in Norway's largest lake, in shallow water with a DIY hydrophone. Somehow YouTube sqrewed up the sound on the last seconds.
+It was recorded in Norway's largest lake, in shallow water with a DIY hydrophone.
 https://en.wikipedia.org/wiki/Skibladner
 
 I used: https://github.com/Supermagnum/double-gain
